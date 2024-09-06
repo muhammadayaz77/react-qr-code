@@ -1,8 +1,4 @@
-# React + Vite
+# React Qr Code
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![qr-code](https://github.com/user-attachments/assets/31d38aa1-56af-43d7-b62b-a112d3435997)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
